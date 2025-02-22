@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditor">
+    <option name="projectConfig">
+      <map>
+        <entry key="/tmp/leetcode/editor/en/[1942]The Number of the Smallest Unoccupied Chair.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/tmp/leetcode/editor/en/doc/content/[1942]The Number of the Smallest Unoccupied Chair.md" />
+              <option name="frontendQuestionId" value="leetcode.com1942" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/tmp/leetcode/editor/en/[1942]The Number of the Smallest Unoccupied Chair.go" />
+              <option name="titleSlug" value="the-number-of-the-smallest-unoccupied-chair" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
